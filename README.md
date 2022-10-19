@@ -5,5 +5,7 @@
 - 📫 How to reach me: raghavduddala@gmail.com
 - 😄 Pronouns: He/Him
 
-[![HitCount](https://hits.dwyl.com/raghavduddala/raghavduddala.svg?style=flat-square)](http://hits.dwyl.com/raghavduddala/raghavduddala)
+[comment]: <> ([![HitCount](https://hits.dwyl.com/raghavduddala/raghavduddala.svg?style=flat-square)](http://hits.dwyl.com/raghavduddala/raghavduddala)) 
+
+Unique Visits
 [![HitCount](https://hits.dwyl.com/raghavduddala/raghavduddala.svg?style=flat-square&show=unique)](http://hits.dwyl.com/raghavduddala/raghavduddala)
