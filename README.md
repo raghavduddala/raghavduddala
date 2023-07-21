@@ -6,4 +6,3 @@
 - 😄 Pronouns: He/Him
 
 
-![Repo Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghavduddala&theme=default)
